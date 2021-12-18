@@ -6,7 +6,7 @@ Authorization Service
 
 - [ ] Draw application architecture
 - [ ] Authorization by resource
-- [ ] Graph Database (Neo4j or TitanDB)
+- [ ] Graph Database (Neo4j or Janusgraph)
 - [ ] Cache server (ApacheSlr or Elasticsearch)
 - [ ] CQRS
 - [ ] Users, Domain, User Profile, Resources
